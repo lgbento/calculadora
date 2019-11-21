@@ -8,7 +8,7 @@ public class OperacoesTeste {
 	@Test
 	public void somaTeste() {
 		Operacoes op = new Operacoes();
-		double resultado =op.somar(3,3);
+		double resultado =op.somar(1,3);
 		Assert.assertEquals(6, resultado,0);
 	}
 	
