@@ -1,5 +1,5 @@
 
-public class Calculadora {
+public class Operacoes {
 	
 	private double x;
 	private double y;
