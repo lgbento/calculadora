@@ -5,7 +5,9 @@
 	<groupId>br.unipe.spi</groupId>
 	<artifactId>Calculadora</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-
+	<properties>
+		<java.version>1.8</java.version>
+	</properties>
 	<dependencies>
 		<!-- https://mvnrepository.com/artifact/junit/junit -->
 		<dependency>
